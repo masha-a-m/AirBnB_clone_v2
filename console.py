@@ -12,6 +12,8 @@ from models.amenity import Amenity
 from models.review import Review
 
 
+"""NEW CONSOLE TEST task """
+
 class HBNBCommand(cmd.Cmd):
     """ Contains the functionality for the HBNB console"""
 
