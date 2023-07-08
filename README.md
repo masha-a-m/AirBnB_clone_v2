@@ -47,5 +47,5 @@ This is the first step towards building your first full web application: the Air
 
 ## Authors
 
-* Egbuta Godslove
-* Onyekachi Johnpaul
+* Bamijoko Adebayo
+* masha maryam
